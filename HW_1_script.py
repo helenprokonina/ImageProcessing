@@ -47,7 +47,7 @@ for filename in image_files:
        os.mkdir(result_path)
    name = filename.split("\\")[1]
    #save resulting images
-   cv2.imwrite(result_path+f'/aligned_{name}', pan_image)
+   cv2.imwrite(result_path+f'/pan_{name}', pan_image)
 
 
 
