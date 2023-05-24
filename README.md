@@ -8,7 +8,7 @@ Here there are four files:
 
 <br>In <b>colored</b> folder there are images for alignment: RGB_half.JPG and RGB_quater.JPG</br>
 <br>In <b>pan</b> folder there is original panochromic image of high quality.</br>
-<br>In <b>results</b> folder there are results from alignment and from various pan-sharpening methods (Brovey, Esri and Simple mean).</br>
+<br>In <b>results</b> folder there are results first just from alignment (without pan-sharpening), and then from various pan-sharpening methods (Brovey, Esri and Simple mean).</br>
 <br>In <b>chess</b> folder there are images of chess for camera calibration.</br>
 <br>In <b>calibrated</b> folder there are results of calibration and 3d-rendering task.</br>
 
