@@ -20,4 +20,4 @@ To run this script print the following:
 python HW_1_script.py -i colored -t pan
 ```
 where i - input folder with colored images, t - target folder with panochromic image.
-Results of alignment and pan-sharpening are two files: <b>pan_RGB_half.JPG</b> and <b>pan_RGB_quater.JPG</b> in the <b>results</b> folder.
+<br>Results of alignment and pan-sharpening are two files: <b>pan_RGB_half.JPG</b> and <b>pan_RGB_quater.JPG</b> in the <b>results</b> folder.</br>
